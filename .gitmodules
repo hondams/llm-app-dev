@@ -1,0 +1,3 @@
+[submodule "docs/knowhow/sample-cc-sdd/sample-batch"]
+	path = docs/knowhow/sample-cc-sdd/sample-batch
+	url = https://github.com/mysd33/sample-batch.git
