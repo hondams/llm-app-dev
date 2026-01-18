@@ -322,3 +322,18 @@ https://www.ipa.go.jp/archive/digital/tools/ep/ep2.html
 
 - https://qiita.com/okikusan-public/items/130ff6df0411f0a58c1a
 
+
+## DB設計
+
+- A5M2を利用して、DDLを生成
+- A5M2の「型ドメイン」を利用し、データ型の統一を計る
+- A5M2の「共通列」で、物理設計レベルの共通カラムを追加
+
+## データディクショナリ設計
+
+- DBのデータ型
+- プログラミング言語のデータ型
+- 入力チェック
+  - コードリスト
+  - ID形式
+  - 

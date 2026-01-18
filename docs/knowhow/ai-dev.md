@@ -114,8 +114,16 @@
 - https://cursor.com/ja/docs/context/rules#-1
   - プロジェクトルール
     - コードベースに関するドメイン固有の知識を表現する
+      - Encode domain-specific knowledge about your codebase
+        - domain-specific-knowledge
     - プロジェクト固有のワークフローやテンプレートを自動化する
+      - Automate project-specific workflows or templates
+        - project-specific-workflows
+        - project-specific-templates
     - スタイルやアーキテクチャに関する方針を標準化する
+      - Standardize style or architecture decisions
+        - coding-style
+        - architecture
   - ベストプラクティス
     - よいルールは、焦点が明確で、実行可能で、スコープが適切に絞られています。
     - ルールは 500 行以内に収める
